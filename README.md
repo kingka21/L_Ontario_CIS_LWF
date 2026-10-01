@@ -3,9 +3,9 @@ The code supports the manuscript K. King, Flood, P., Brant, C., and Alofs, K. un
 
 **The 'scripts' folder includes the following:**  
 01_data_wrangling that includes the raster data manipulations 
-02_cis_hist_model that includes methods for running the MaxEnt model for historical cisco data, pulling threshold information, and the Boyce Index   
-03_cis_contemp_model that includes methods for running the MaxEnt model for contemporary cisco data, pulling threshold information, and the Boyce Index   
-04_lwf_hist_model that includes methods for running the MaxEnt model for historical lake whitefish data, pulling threshold information, and the Boyce Index    
+02_cis_hist_model that includes methods for running the MaxEnt model for historical cisco data, pulling threshold information, and the Boyce Index     
+03_cis_contemp_model that includes methods for running the MaxEnt model for contemporary cisco data, pulling threshold information, and the Boyce Index     
+04_lwf_hist_model that includes methods for running the MaxEnt model for historical lake whitefish data, pulling threshold information, and the Boyce Index      
 05_lwf_contemp_model that includes methods for running the MaxEnt model for contemporary lake whitefish data, pulling threshold information, and the Boyce Index  
 06_marginal_plots that includes methods used for creating the marginal effects plots  
 
