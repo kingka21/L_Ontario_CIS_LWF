@@ -2,7 +2,7 @@ This repository provides the supporting code and data used to compare historical
 The code supports the manuscript K. King, Flood, P., Brant, C., and Alofs, K. under review. Comparing historical and contemporary spawning habitat to inform conservation and restoration of cisco and lake whitefish in Lake Ontario. Canadian Journal of Fisheries and Aquatic Sciences. 
 
 **The 'scripts' folder includes the following:**  
-01_data_wrangling that includes the raster data manipulations 
+01_data_wrangling that includes the raster data manipulations   
 02_cis_hist_model that includes methods for running the MaxEnt model for historical cisco data, pulling threshold information, and the Boyce Index     
 03_cis_contemp_model that includes methods for running the MaxEnt model for contemporary cisco data, pulling threshold information, and the Boyce Index     
 04_lwf_hist_model that includes methods for running the MaxEnt model for historical lake whitefish data, pulling threshold information, and the Boyce Index      
