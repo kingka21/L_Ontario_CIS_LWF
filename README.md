@@ -1,5 +1,5 @@
 This repository provides the supporting code and data used to compare historical and contemporary spawning habitat of cisco and lake whitefish in Lake Ontario.
-The code supports the manuscript K. King, Flood, P., Brant, C., and Alofs, K. under review. Drivers and spatial structure of abiotic and biotic properties of lakes, wetlands, and streams at the national scale. Canadian Journal of Fisheries and Aquatic Sciences. 
+The code supports the manuscript K. King, Flood, P., Brant, C., and Alofs, K. under review. Comparing historical and contemporary spawning habitat to inform conservation and restoration of cisco and lake whitefish in Lake Ontario. Canadian Journal of Fisheries and Aquatic Sciences. 
 
 **The 'scripts' folder includes the following:**  
 01_data_wrangling that includes the raster data manipulations 
