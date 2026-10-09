@@ -11,11 +11,11 @@ The code supports the manuscript K. King, Flood, P., Brant, C., and Alofs, K. un
 
 **The 'data' folder includes the following:**
 
-points_cis_hisotrical that includes the historical cisco data and their sources
-points_cis_conemp that includes the contemporary cisco data and their sources
-points_lwf_historical that includes the historical lake whitefish data and their sources
-points_lwf_contemp that includes the contemporary lake whitefish data and their sources
-ont_cis_marginal_hist that includes all of the historical cisco Maxent model marginal data  
-ont_cis_marginal_contemp that includes all of the contemporary cisco Maxent model marginal data  
-ont_lwf_marginal_hist that includes all of the historical lake whitefish Maxent model marginal data  
-ont_lwf_marginal_contemp that includes all of the contemporary lake whitefish Maxent model marginal data  
+points_cis_hisotrical that includes the historical cisco data and their sources   
+points_cis_conemp that includes the contemporary cisco data and their sources   
+points_lwf_historical that includes the historical lake whitefish data and their sources   
+points_lwf_contemp that includes the contemporary lake whitefish data and their sources   
+ont_cis_marginal_hist that includes all of the historical cisco Maxent model marginal data   
+ont_cis_marginal_contemp that includes all of the contemporary cisco Maxent model marginal data   
+ont_lwf_marginal_hist that includes all of the historical lake whitefish Maxent model marginal data   
+ont_lwf_marginal_contemp that includes all of the contemporary lake whitefish Maxent model marginal data   
